@@ -2,6 +2,14 @@
   "name": "discord-bot-maker-bot",
   "author": "Robert Borghese",
   "main": "bot.js",
+    "engines": {
+    "node": "12.x"
+  },
+  "scripts": {
+    "start": "node .",
+    "pretest": "eslint --ignore-path .gitignore .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "version": "1.5.10",
   "dependencies": {
     "chalk": "^4.1.0",
