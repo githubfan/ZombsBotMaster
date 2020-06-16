@@ -4,7 +4,7 @@
  ## How to run locally
  `  git clone https://github.com/JamzZz/ZombsBotMaster.git`
 
- `npm install `\
+ `npm install `
  
-`node bot.js `\
+`node bot.js `
  
